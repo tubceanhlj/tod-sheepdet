@@ -17,8 +17,8 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/1.jpg" width="500" height="150" /> </td>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/1-1.jpg" width="500" height="150" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/1.jpg" width="585" height="329" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/1-1.jpg" width="585" height="329" /> </td>
   </tr>
   </tr>      
 </table>
