@@ -17,16 +17,9 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/693191113827659876.jpg" width="500" height="150" /> </td>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/693191113827659876_L.jpg" width="500" height="150" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/1.jpg" width="500" height="150" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/1-1.jpg" width="500" height="150" /> </td>
   </tr>
-  <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/747328083604509596.jpg" width="500" height="150" /> </td>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/747328083604509596_L.jpg" width="500" height="150" /> </td>
-  </tr>
-  <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/873620938911533560.jpg" width="500" height="150" /> </td>
-    <td> <img src="https://github.com/tubceanhlj/tod-sheepdet/blob/master/imgs/873620938911533560_L.jpg" width="500" height="150" /> </td>
   </tr>      
 </table>
       
